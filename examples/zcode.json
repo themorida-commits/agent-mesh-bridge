@@ -1,0 +1,10 @@
+{
+  "mcp": {
+    "servers": {
+      "agent-mesh": {
+        "command": "node",
+        "args": ["/Users/YOUR_USERNAME/agent-bridges/agent-mesh-mcp.js"]
+      }
+    }
+  }
+}

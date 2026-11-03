@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "agent-mesh": {
+      "type": "local",
+      "command": ["node", "/Users/YOUR_USERNAME/agent-bridges/agent-mesh-mcp.js"],
+      "enabled": true
+    }
+  }
+}
